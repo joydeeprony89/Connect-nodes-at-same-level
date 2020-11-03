@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect nodes at same level", "Connect nodes at same level\Connect nodes at same level.csproj", "{E282A158-D7B7-4290-B280-EC5588244367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E282A158-D7B7-4290-B280-EC5588244367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E282A158-D7B7-4290-B280-EC5588244367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E282A158-D7B7-4290-B280-EC5588244367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E282A158-D7B7-4290-B280-EC5588244367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C0CBCE9-670F-4906-A170-B32D6706406B}
+	EndGlobalSection
+EndGlobal
